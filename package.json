@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "creating a rest api with node js and express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glorayye/NodeJs-Api.git"
+  },
+  "author": "Glorayye based to Akshaya Srikanth code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glorayye/NodeJs-Api/issues"
+  },
+  "homepage": "https://github.com/glorayye/NodeJs-Api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
